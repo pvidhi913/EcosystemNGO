@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/db4o-8.0.184.15484-all-java5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/jfreechart-1.0.19-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FinalProject-VKV/jars/jbcrypt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
